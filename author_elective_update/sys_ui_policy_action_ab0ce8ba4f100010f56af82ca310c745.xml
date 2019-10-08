@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>closed_at</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-08 13:31:51</sys_created_on>
+        <sys_id>ab0ce8ba4f100010f56af82ca310c745</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>closed_at</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_policy_action_ab0ce8ba4f100010f56af82ca310c745</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-08 13:31:51</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+        <ui_policy display_value="Closed this week">d7346cf24f100010f56af82ca310c73f</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>cdfb1d60db09d30c7d8cf22ebf961907</instance_id>
+        <instance_name>dev53436</instance_name>
+        <name>sys_ui_policy_action_ab0ce8ba4f100010f56af82ca310c745</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>true</disabled><field>closed_at</field><mandatory>ignore</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-08 13:31:51</sys_created_on><sys_id>ab0ce8ba4f100010f56af82ca310c745</sys_id><sys_mod_count>0</sys_mod_count><sys_name>closed_at</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_policy_action_ab0ce8ba4f100010f56af82ca310c745</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-08 13:31:51</sys_updated_on><table>x_58872_needit_needit</table><ui_policy display_value="Closed this week">d7346cf24f100010f56af82ca310c73f</ui_policy><visible>ignore</visible></sys_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-192116313</payload_hash>
+        <record_name>closed_at</record_name>
+        <reverted_from/>
+        <source>a3eabd48dba333007c315c7a489619f2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-08 13:31:51</sys_created_on>
+        <sys_id>377ce4364f100010f56af82ca310c74e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16dab91a2dd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-08 13:31:51</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>7f7ce4368410001055daa1cbb108234d</update_guid>
+        <update_guid_history>7f7ce4368410001055daa1cbb108234d:-192116313</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-08 13:48:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>10d11a60ff4b429585d210a258dc7ed1</sys_id>
+        <sys_metadata>ab0ce8ba4f100010f56af82ca310c745</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>closed_at</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="">d7346cf24f100010f56af82ca310c73f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_ab0ce8ba4f100010f56af82ca310c745</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_ab0ce8ba4f100010f56af82ca310c745">377ce4364f100010f56af82ca310c74e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-08 13:48:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
